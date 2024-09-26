@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I’m Yaroslav Baienko, a **DevOps Engineer** and **Microservices engineer (Python and Go) with a passion for building scalable microservices and cloud infrastructure solutions. My career has taken me from law to technology, and today I work with modern tools and technologies that enable reliable and efficient software delivery. I specialize in **Python** and **Go** and have extensive experience working with containerized environments and CI/CD pipelines.
+I’m Yaroslav Baienko, a **DevOps Engineer** and **Microservices engineer (Python and Go)** with a passion for building scalable microservices and cloud infrastructure solutions. My career has taken me from law to technology, and today I work with modern tools and technologies that enable reliable and efficient software delivery. I specialize in **Python** and **Go** and have extensive experience working with containerized environments and CI/CD pipelines.
 
 ### 🚀 What I’m currently working on:
 - Leading DevOps initiatives at **SALVE LLC**, where I design and maintain cloud-based, scalable infrastructures.
