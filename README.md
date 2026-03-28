@@ -1,34 +1,34 @@
+### Hi there 👋
 
-## Hi there 👋
+I’m **Yaroslav Baienko**, a unique hybrid of a **DevOps/Microservices Engineer** and a **Senior Lawyer**. Holding dual Master's degrees in Law and Computer Science, I bridge the gap between building scalable cloud infrastructure and navigating complex regulatory frameworks. My career is built on the intersection of AI automation, digital economy law, and high-load microservices.
 
-I’m Yaroslav Baienko, a **DevOps Engineer** and **Microservices engineer (Python and Go)** with a passion for building scalable microservices and cloud infrastructure solutions. My career has taken me from law to technology, and today I work with modern tools and technologies that enable reliable and efficient software delivery. I specialize in **Python** and **Go** and have extensive experience working with containerized environments and CI/CD pipelines.
+**🚀 What I’m currently working on:**
+* Leading the **Digital Economy Practice at GOLAW**, advising on AI governance, smart contracts, crypto/Web3 compliance, and handling international arbitration (SCC, VIAC).
+* Architecting and deploying **Agentic AI Workflows** (using n8n, Claude, Gemini, and Supabase) to automate legal market intelligence, billing processes, and complex data synthesis.
+* Developing efficient, microservice-based solutions in **Go** and **Python**, integrating machine learning models into production systems.
+* Automating infrastructure deployments with **Terraform**, **Ansible**, and **Docker** to ensure smooth CI/CD processes.
 
-### 🚀 What I’m currently working on:
-- Leading DevOps initiatives at **SALVE LLC**, where I design and maintain cloud-based, scalable infrastructures.
-- Developing efficient, microservice-based solutions in **Go** and **Python**, and integrating machine learning models into production systems.
-- Automating infrastructure deployments with **Terraform**, **Ansible**, and **Docker** to ensure smooth CI/CD processes.
-  
-### 🌱 My Go Programming Inspiration:
-I was drawn to **Go** by its simplicity and efficiency, especially in the context of **microservices**. Working with complex systems often requires tools that are not just powerful but also easy to maintain. **Go**’s native concurrency model and its ability to handle high-load applications with minimal memory usage made it the ideal choice for me. Since I started using Go, I have built numerous microservices that power cloud-based platforms and run in production environments, scaling effortlessly.
+**🌱 My AI & Tech Inspiration:**
+I was initially drawn to Go by its simplicity and efficiency for microservices. Today, I combine that robust backend expertise with the power of **Agentic Workflows**. I leverage tools like Obsidian, NotebookLM, and custom LLM integrations to create "Digital Brains" that process massive amounts of data. My strong background in DevOps allows me to go beyond simple prompting—I securely deploy, orchestrate, and maintain autonomous AI systems and CI/CD pipelines in production environments.
 
-### 💬 Ask me about:
-- **Go** and **Python** for building microservices and automation scripts.
-- Managing cloud infrastructure with **AWS**, **Terraform**, and **Kubernetes**.
-- **CI/CD pipelines** using **Jenkins**, **GitHub Actions**, and **GitLab CI**.
-- Building and managing **containerized applications** with **Docker** and **LXC**.
-  
-### 📫 How to reach me:
-- **Email**: [zerhug@gmail.com](mailto:zerhug@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yaroslav-baienko-59239923a](https://www.linkedin.com/in/yaroslav-baienko-59239923a/)
-- **GitHub**: [github.com/YaroslavBaienko](https://github.com/YaroslavBaienko)
+**💬 Ask me about:**
+* **Legal Tech & Compliance:** AI regulation (EU AI Act), Web3, data protection, and digital dispute resolution.
+* **AI Automation:** Building autonomous agentic workflows with n8n, custom APIs, and advanced LLM orchestration.
+* **Backend & Infrastructure:** Building microservices in Go and Python, managing cloud infrastructure with AWS, Terraform, and Kubernetes.
+* **CI/CD & Containers:** Pipelines using Jenkins, GitHub Actions, GitLab CI, and container orchestration with Docker/LXC.
 
-### 🛠 Skills:
-- **Languages**: Python, Go
-- **Frameworks**: Flask, Django, FastAPI
-- **DevOps Tools**: Docker, Kubernetes, Terraform, Ansible
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Monitoring**: Prometheus, Grafana, Elastic Stack
-- **Operating Systems**: Ubuntu, RedHat Linux
-- **Scripting**: Bash/Shell scripting
-- **Cloud**: AWS, GCP
+**📫 How to reach me:**
+* **Email:** zerhug@gmail.com
+* **LinkedIn:** [linkedin.com/in/yaroslavbaienko](https://www.linkedin.com/in/yaroslavbaienko)
+* **GitHub:** [github.com/YaroslavBaienko](https://github.com/YaroslavBaienko)
 
+**🛠 Skills & Tech Stack:**
+* **Languages:** Python, Go, Rust, Bash/Shell
+* **AI & Automation:** n8n, Claude 3.5/3.7, Gemini Pro, NotebookLM, Prompt Engineering, Agentic RAG
+* **Frameworks:** Flask, Django, FastAPI, Streamlit
+* **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible
+* **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+* **Monitoring:** Prometheus, Grafana, Elastic Stack
+* **Operating Systems:** Ubuntu, RedHat Linux
+* **Cloud:** AWS, GCP, DigitalOcean
+* **Legal Expertise:** IT Law, International Arbitration (SCC, VIAC), AI Governance, Smart Contracts, GDPR
